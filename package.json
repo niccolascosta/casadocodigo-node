@@ -1,0 +1,19 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "site da casa do codigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niccolascosta/casadocodigo-node.git"
+  },
+  "author": "Niccolas Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niccolascosta/casadocodigo-node/issues"
+  },
+  "homepage": "https://github.com/niccolascosta/casadocodigo-node#readme"
+}
